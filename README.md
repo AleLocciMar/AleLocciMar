@@ -12,7 +12,14 @@ PhD researcher in Ontologies at IME-USP, passionate about software quality, spec
 - 🛠️ Developer of training modules for SENAC, focused on software quality and testing
 - 🤖 Researcher in formal specification using the B Method and Atelier B
 - 🧠 Integrator of LLama-based models with tools like LM Studio, Prodigy, and Visual Paradigm
-
+- 
+📚 Papers
+@article{melo2025machine,
+  title={Machine learning testing: error, fault, or failure? an ontological approach},
+  author={Melo, Ana Cristina Vieira de},
+  journal={Lecture Notes in Networks and Systems},
+  year={2025}
+}
 ---
 
 ## 🧪 Certifications
