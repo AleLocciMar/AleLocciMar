@@ -15,10 +15,10 @@ PhD researcher in Ontologies at IME-USP, passionate about software quality, spec
 - 
 📚 Papers
 
-  title=Machine learning testing: error, fault, or failure? an ontological approach
-  author=Martins, Alexandre Locci; Melo, Ana Cristina Vieira de,
-  journal=Lecture Notes in Networks and Systems,
-  year=2025
+ - title=Machine learning testing: error, fault, or failure? an ontological approach
+ - author=Martins, Alexandre Locci; Melo, Ana Cristina Vieira de,
+ - journal=Lecture Notes in Networks and Systems,
+ - year=2025
 
 
 ---
