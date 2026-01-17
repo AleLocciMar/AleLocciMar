@@ -70,6 +70,6 @@ PhD researcher in Artificial Intelligence at IME-USP, passionate about software 
 ## 📫 Contact
 
 Feel free to connect or collaborate!  
-📧 alelocci@ime.usp.br
+📧 alelocci@alumni.usp.br
 🔗 [LinkedIn](https://linkedin.com/in/alelocci)  
-🔗 [GitHub](https://github.com/AleLocci)
+🔗 [GitHub](https://github.com/AleLocciMar)
