@@ -1,4 +1,4 @@
-# 👨‍💻 Alexandre Locci Martins
+# 👨‍💻 Alexandre Locci
 
 PhD researcher in Artificial Intelligence at IME-USP, passionate about software quality, specification, and intelligent tooling. I combine academic rigor with practical experience in teaching, development, and automation.
 
